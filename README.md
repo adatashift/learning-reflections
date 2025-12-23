@@ -7,7 +7,7 @@ This repository documents my professional growth and critical thinking around te
 ## Reflections
 
 - **[IBM SkillsBuild – Artificial Intelligence Fundamentals](./reflections/ibm-ai-fundamentals.md)**  
-  Exploring AI ethics, bias, fairness, and human accountability. ![IBM Badge](.[/certificates/ibm-ai-fundamentals-badge.png](https://www.credly.com/badges/5df6384a-6349-4a86-aa0d-4c8a74338eae)
+  Exploring AI ethics, bias, fairness, and human accountability. [IBM Badge].(https://www.credly.com/badges/5df6384a-6349-4a86-aa0d-4c8a74338eae)
 
 *(More reflections coming as I complete new courses and projects)*
 
