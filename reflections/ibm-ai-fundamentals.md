@@ -1,7 +1,7 @@
 # IBM SkillsBuild – Artificial Intelligence Fundamentals
 
 **Completed:** [December 2025]  
-**Certificate:** [Link to Credly badge or uploaded image](./../certificates/ibm-ai-fundamentals-badge.png)
+**Certificate:** [Link to Credly badge](https://www.credly.com/badges/5df6384a-6349-4a86-aa0d-4c8a74338eae))
 
 ## Overview
 As part of my transition into data analytics and business intelligence, I completed the IBM SkillsBuild Artificial Intelligence Fundamentals course to build a grounded understanding of how AI systems work — and, just as importantly, how they affect real people and institutions.
