@@ -1,6 +1,6 @@
 # Misleading Visualizations in Statistics and Data Representation
 
-I've realized that my knowledge of statistics and probability is quite limited right now. That's why I decided to pick up the book Introducing Mathematics by Ziauddin Sardar, Jerry Ravetz and Borin van Loon. The graphic novel style makes math feel less intimidating, and it's a great starting point for beginners like me.
+I've realized that my knowledge of statistics and probability is quite limited right now. In such a timely manner, I found this book Introducing Mathematics by Ziauddin Sardar, Jerry Ravetz and Borin van Loon, amongst some other books that belonged to a dear uncle. The graphic novel style of this book made math feel less intimidating, and it has served as a great starting point for beginners like me.
 
 In my classes, we've discussed how Business Intelligence (BI) is all about turning data into actionable insights for businesses—things like forecasting sales, understanding customer behavior, or optimizing operations. Classes also included lectures on statistics and probability but its application to the practical aspects of data visualisation and data representation may have been disjointed. It may very well be that I may not have fully grasped the applications while being taught. However, without a solid grasp of statistics and probability, it's easy to misinterpret data or make poor decisions.
 
