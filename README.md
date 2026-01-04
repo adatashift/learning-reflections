@@ -9,7 +9,7 @@ This repository documents my professional growth and critical thinking around te
 - **[IBM SkillsBuild – Artificial Intelligence Fundamentals](./reflections/ibm-ai-fundamentals.md)**  
   Exploring AI ethics, bias, fairness, and human accountability. [IBM Badge](https://www.credly.com/badges/5df6384a-6349-4a86-aa0d-4c8a74338eae)
 
-- **[Misleading Visualisations](./reflections/statistical_literacy-misleading visualisations.md)**
+- **[Misleading Visualisations](https://github.com/adatashift/learning-reflections/blob/4e5f097aa92a6932d9066cd8342b8a89601285b5/reflections/statistical_literacy-misleading%20visualisations.md)** 
   Strategies for maintaining ethical standards and technical accuracy when creating data visualizations.
   
 *(More reflections coming as I complete new courses and projects)*
