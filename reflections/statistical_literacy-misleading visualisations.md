@@ -16,13 +16,16 @@ Here are some of those tricks I should be aware of and avoid:
 ## Trick 1: Graphs without a proper baseline or scale (Truncated Y-Axis)
 The vertical (y-axis) doesn't start at zero, making small changes look dramatic. This can be misleading because our eyes tend to compare bar heights rather than the actual numbers. What's misleading in the chart below is that it appears to show huge growth.
 
-![statistical_literacy-misleading visualisations.md](image 1.png) 
+Truncated Y-Axis Example
+<img width="349" height="210" alt="image 1" src="https://github.com/user-attachments/assets/b625d133-5e5f-4c0b-afc2-58752ccaa217" />
 
-
-## Trick 2: Pictures or icons that distort volume
+ ## Trick 2: Pictures or icons that distort volume
 In scaled pictograms, doubling the height can make it look like far more than double the amount.
 
-Distorted Volume Example
+Distorted Volume Examples
+![image 2](https://github.com/user-attachments/assets/9c24d11f-2ba5-435e-ac32-0f61189bfd1c)
+
+<img width="812" height="610" alt="image 3" src="https://github.com/user-attachments/assets/9af14e98-10cd-4ea4-bb43-35361b754bb9" />
 
 ## My Learning Journey and Next Steps
 I've learned that statistics and probability aren't just academic, they help prevent biases in BI reporting and ensure ethical, data-driven decisions.
