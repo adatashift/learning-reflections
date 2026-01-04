@@ -2,7 +2,8 @@
 
 I've realized that my knowledge of statistics and probability is quite limited right now. That's why I decided to pick up the book Introducing Mathematics by Ziauddin Sardar, Jerry Ravetz and Borin van Loon. The graphic novel style makes math feel less intimidating, and it's a great starting point for beginners like me.
 
-In my classes, we've discussed how Business Intelligence (BI) is all about turning data into actionable insights for businesses—things like forecasting sales, understanding customer behavior, or optimizing operations. But without a solid grasp of statistics and probability, it's easy to misinterpret data or make poor decisions.
+In my classes, we've discussed how Business Intelligence (BI) is all about turning data into actionable insights for businesses—things like forecasting sales, understanding customer behavior, or optimizing operations. Classes also included lectures on statistics and probability but its application to the practical aspects of data visualisation and data representation may have been disjointed. It may very well be that I may not have fully grasped the applications while being taught. However, without a solid grasp of statistics and probability, it's easy to misinterpret data or make poor decisions.
+
 Statistics helps describe data (like averages and trends) and infer conclusions from samples (like predicting market behavior). Probability deals with uncertainty—calculating risks, predicting outcomes, and assessing how likely events are.
 Misunderstanding these concepts can lead to overconfident predictions or ignoring real risks. 
 
@@ -32,8 +33,13 @@ Distorted Volume Examples
 ## My Learning Journey and Next Steps
 I've learned that statistics and probability aren't just academic, they help prevent biases in BI reporting and ensure ethical, data-driven decisions.
 In my projects, I'll apply this by always checking visualizations for accuracy and incorporating probability concepts.
-As a beginner I thought it best to generate a desk checklist to ensure visual integrity going forward. 
+I thought it best to generate a desk checklist to ensure visual integrity going forward. 
 
-# Desk Checklist Infographic
-Reference
-Sardar, Z., Ravetz, J., & Van Loon, B. (1999). Introducing mathematics. Icon Books.
+## Desk Checklist Infographic
+
+I thought it best to generate a desk checklist to ensure visual integrity going forward.
+
+<img width="1536" height="2752" alt="misleading viz 2" src="https://github.com/user-attachments/assets/25400cd5-4ae8-4f3f-8984-20f1e3a78768" />
+
+## Reference
+Sardar, Z.,Ravetz, J., & Van Loon, B. (1999). Introducing mathematics. Icon Books.
