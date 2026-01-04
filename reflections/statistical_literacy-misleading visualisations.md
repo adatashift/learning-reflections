@@ -16,7 +16,7 @@ Here are some of those tricks I should be aware of and avoid:
 ## Trick 1: Graphs without a proper baseline or scale (Truncated Y-Axis)
 The vertical (y-axis) doesn't start at zero, making small changes look dramatic. This can be misleading because our eyes tend to compare bar heights rather than the actual numbers. What's misleading in the chart below is that it appears to show huge growth.
 
-![Truncated Y-Axis Example] (image 1.png) 
+![statistical_literacy-misleading visualisations.md](image 1.png) 
 
 
 ## Trick 2: Pictures or icons that distort volume
