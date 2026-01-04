@@ -25,7 +25,7 @@ In scaled pictograms, doubling the height can make it look like far more than do
 
 Distorted Volume Examples
 
-![image 2](https://github.com/user-attachments/assets/9c24d11f-2ba5-435e-ac32-0f61189bfd1c)
+<img width="349" height="210" alt="image 2" src="https://github.com/user-attachments/assets/7f8960b2-065c-4722-82e7-23ee5fa0f11e" />
 
 <img width="349" height="210" alt="image 3" src="https://github.com/user-attachments/assets/9af14e98-10cd-4ea4-bb43-35361b754bb9" />
 
