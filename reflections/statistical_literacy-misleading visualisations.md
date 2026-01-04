@@ -38,6 +38,7 @@ I thought it best to generate a desk checklist to ensure visual integrity going 
 ## Desk Checklist Infographic
 
 I thought it best to generate a desk checklist to ensure visual integrity going forward.
+This infographic was generated using  an AI tool. While care was taken to review the content, minor spelling or typographical errors may be present. The information is intended for illustrative purposes only.
 
 <img width="1536" height="2752" alt="misleading viz 2" src="https://github.com/user-attachments/assets/25400cd5-4ae8-4f3f-8984-20f1e3a78768" />
 
